@@ -1,0 +1,32 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.git.backup-*/
+
+# Local scratch space
+trash/
+
+# Large raw datasets and intermediate exports
+dataset/lichess_db_standard_rated_2014-10.pgn
+dataset/output_data.csv
+dataset/final_data
+dataset/final_merged_data.csv
+dataset/final_data_by_event_group/
+data_manipulation_output/output_data_cleaned.csv
+data_manipulation_output/raw_sample.csv
+
+# Generated training artifacts and bulky experiment outputs
+Question_one/saved_state/
+Question_one/saved_state_2/
+Question_one/saved_state_v2/
+Question_one/saved_state_top30_balanced/
+Question_two/advanced_output/
+Question_two/cluster_history_output/
+Player_behaviour/output/
+Question_three/advanced_output/advanced_player_archetypes.csv
+elo_prediction_output/elo_test_predictions.csv
+elo_prediction_output/pytorch_test_predictions.csv
+elo_prediction_output/pytorch_training_history.csv

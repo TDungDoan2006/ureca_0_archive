@@ -1,0 +1,7 @@
+target,model,best_params
+BlackElo,dummy_mean,"{""strategy"": ""mean""}"
+BlackElo,ridge,"{""model__alpha"": 0.1}"
+BlackElo,elastic_net,"{""model__alpha"": 0.01, ""model__l1_ratio"": 0.9}"
+BlackElo,hist_gradient_boosting,"{""model__l2_regularization"": 0.0, ""model__learning_rate"": 0.05, ""model__max_depth"": 6, ""model__max_iter"": 300, ""model__max_leaf_nodes"": 31, ""model__min_samples_leaf"": 20}"
+BlackElo,xgboost,"{""model__colsample_bytree"": 0.7, ""model__learning_rate"": 0.05, ""model__max_depth"": 4, ""model__min_child_weight"": 3, ""model__n_estimators"": 350, ""model__reg_alpha"": 0.5, ""model__reg_lambda"": 5.0, ""model__subsample"": 1.0}"
+BlackElo,pytorch_mlp,"{""dropout"": 0.2, ""hidden_dims"": [384, 192], ""lr"": 0.0008, ""weight_decay"": 0.0005}"

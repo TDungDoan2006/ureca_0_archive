@@ -1,0 +1,81 @@
+cluster_id,archetype,opening,games
+0,Counterpunching Defenders,Horwitz Defense,5829
+0,Counterpunching Defenders,Caro-Kann Defense,5634
+0,Counterpunching Defenders,Modern Defense,3883
+0,Counterpunching Defenders,Queen's Pawn Game: Zukertort Variation,3459
+0,Counterpunching Defenders,Sicilian Defense,3263
+0,Counterpunching Defenders,Sicilian Defense: Bowdler Attack,3124
+0,Counterpunching Defenders,Queen's Pawn,2826
+0,Counterpunching Defenders,Sicilian Defense: Old Sicilian,2565
+0,Counterpunching Defenders,Pirc Defense #4,2373
+0,Counterpunching Defenders,Queen's Pawn Game #2,2137
+1,Aggressive Attackers,French Defense: Knight Variation,4434
+1,Aggressive Attackers,Italian Game: Anti-Fried Liver Defense,4199
+1,Aggressive Attackers,Philidor Defense #3,4037
+1,Aggressive Attackers,Sicilian Defense: Bowdler Attack,3092
+1,Aggressive Attackers,Philidor Defense #2,2742
+1,Aggressive Attackers,Scotch Game,2364
+1,Aggressive Attackers,Caro-Kann Defense,2282
+1,Aggressive Attackers,Bishop's Opening,2209
+1,Aggressive Attackers,Horwitz Defense,1957
+1,Aggressive Attackers,Ruy Lopez: Steinitz Defense,1585
+2,Aggressive Attackers,Sicilian Defense: Bowdler Attack,7752
+2,Aggressive Attackers,French Defense: Knight Variation,6151
+2,Aggressive Attackers,Bishop's Opening,5580
+2,Aggressive Attackers,Scandinavian Defense: Mieses-Kotroc Variation,4625
+2,Aggressive Attackers,Sicilian Defense,3894
+2,Aggressive Attackers,Philidor Defense #3,3683
+2,Aggressive Attackers,Scotch Game,3633
+2,Aggressive Attackers,Philidor Defense #2,3548
+2,Aggressive Attackers,Sicilian Defense: Old Sicilian,3545
+2,Aggressive Attackers,Sicilian Defense: McDonnell Attack,3042
+3,Aggressive Attackers,Bird Opening,1642
+3,Aggressive Attackers,Caro-Kann Defense,1410
+3,Aggressive Attackers,Modern Defense,1353
+3,Aggressive Attackers,Bird Opening: Dutch Variation,1115
+3,Aggressive Attackers,Sicilian Defense,1091
+3,Aggressive Attackers,French Defense: Knight Variation,719
+3,Aggressive Attackers,King's Pawn Game: Wayward Queen Attack,639
+3,Aggressive Attackers,Horwitz Defense,567
+3,Aggressive Attackers,Queen's Gambit Declined,554
+3,Aggressive Attackers,Scotch Game,519
+4,Aggressive Attackers,Scandinavian Defense: Mieses-Kotroc Variation,2698
+4,Aggressive Attackers,Italian Game: Anti-Fried Liver Defense,1925
+4,Aggressive Attackers,Philidor Defense #3,1802
+4,Aggressive Attackers,Scotch Game,1722
+4,Aggressive Attackers,Philidor Defense #2,1709
+4,Aggressive Attackers,King's Pawn Game: Wayward Queen Attack,1681
+4,Aggressive Attackers,Sicilian Defense: Bowdler Attack,1397
+4,Aggressive Attackers,Scandinavian Defense,1387
+4,Aggressive Attackers,French Defense: Knight Variation,1108
+4,Aggressive Attackers,Bishop's Opening,1091
+5,Counterpunching Defenders,Owen Defense,6933
+5,Counterpunching Defenders,Horwitz Defense,5336
+5,Counterpunching Defenders,Caro-Kann Defense,4402
+5,Counterpunching Defenders,Scandinavian Defense: Mieses-Kotroc Variation,4389
+5,Counterpunching Defenders,Modern Defense,4282
+5,Counterpunching Defenders,Sicilian Defense,4002
+5,Counterpunching Defenders,Van't Kruijs Opening,3812
+5,Counterpunching Defenders,Scandinavian Defense,3639
+5,Counterpunching Defenders,French Defense: Knight Variation,3018
+5,Counterpunching Defenders,Hungarian Opening,2968
+6,Aggressive Attackers,Horwitz Defense,7654
+6,Aggressive Attackers,Queen's Pawn Game #2,6462
+6,Aggressive Attackers,Scandinavian Defense: Mieses-Kotroc Variation,5814
+6,Aggressive Attackers,Van't Kruijs Opening,5223
+6,Aggressive Attackers,Queen's Pawn Game,4873
+6,Aggressive Attackers,King's Pawn Game: Leonardis Variation,4174
+6,Aggressive Attackers,King's Pawn Game: Wayward Queen Attack,3992
+6,Aggressive Attackers,Philidor Defense #3,3344
+6,Aggressive Attackers,Philidor Defense #2,3211
+6,Aggressive Attackers,Scandinavian Defense,3072
+7,Hypermodern Strategists,Van't Kruijs Opening,17773
+7,Hypermodern Strategists,Hungarian Opening,14195
+7,Hypermodern Strategists,Owen Defense,11821
+7,Hypermodern Strategists,Modern Defense,9948
+7,Hypermodern Strategists,Nimzo-Larsen Attack,5631
+7,Hypermodern Strategists,Mieses Opening,4972
+7,Hypermodern Strategists,English Defense #2,4577
+7,Hypermodern Strategists,Bird Opening,4077
+7,Hypermodern Strategists,Pirc Defense #4,2992
+7,Hypermodern Strategists,Queen's Pawn,2948

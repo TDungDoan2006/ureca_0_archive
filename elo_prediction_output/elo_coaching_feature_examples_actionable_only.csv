@@ -1,0 +1,3 @@
+feature,baseline_value,comparison_value,baseline_avg_elo,comparison_avg_elo,elo_gap,baseline_games,comparison_games
+early_queen_move,0,1,1645.0276141784539,1569.0725929435455,-75.95502123490837,432459,67541
+castled,0,1,1555.685199003857,1657.3932212021987,101.70802219834172,111229,388771

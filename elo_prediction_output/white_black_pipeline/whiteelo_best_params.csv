@@ -1,0 +1,7 @@
+target,model,best_params
+WhiteElo,dummy_mean,"{""strategy"": ""mean""}"
+WhiteElo,ridge,"{""model__alpha"": 100.0}"
+WhiteElo,elastic_net,"{""model__alpha"": 0.1, ""model__l1_ratio"": 0.7}"
+WhiteElo,hist_gradient_boosting,"{""model__l2_regularization"": 0.5, ""model__learning_rate"": 0.03, ""model__max_depth"": 4, ""model__max_iter"": 200, ""model__max_leaf_nodes"": 31, ""model__min_samples_leaf"": 20}"
+WhiteElo,xgboost,"{""model__colsample_bytree"": 0.7, ""model__learning_rate"": 0.05, ""model__max_depth"": 4, ""model__min_child_weight"": 3, ""model__n_estimators"": 350, ""model__reg_alpha"": 0.5, ""model__reg_lambda"": 5.0, ""model__subsample"": 1.0}"
+WhiteElo,pytorch_mlp,"{""dropout"": 0.15, ""hidden_dims"": [256, 128], ""lr"": 0.001, ""weight_decay"": 0.0001}"

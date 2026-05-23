@@ -1,0 +1,51 @@
+cluster_id,archetype,opening,games
+0,Hypermodern Strategists,Van't Kruijs Opening,22862
+0,Hypermodern Strategists,Hungarian Opening,14673
+0,Hypermodern Strategists,Modern Defense,11231
+0,Hypermodern Strategists,Owen Defense,9950
+0,Hypermodern Strategists,Mieses Opening,5864
+0,Hypermodern Strategists,Horwitz Defense,5504
+0,Hypermodern Strategists,Bird Opening,5263
+0,Hypermodern Strategists,Nimzo-Larsen Attack,4889
+0,Hypermodern Strategists,English Defense #2,4618
+0,Hypermodern Strategists,Polish Opening,4017
+1,Aggressive Attackers,French Defense: Knight Variation,10967
+1,Aggressive Attackers,Philidor Defense #3,8959
+1,Aggressive Attackers,Philidor Defense #2,8372
+1,Aggressive Attackers,Bishop's Opening,7205
+1,Aggressive Attackers,King's Pawn Game: Leonardis Variation,5770
+1,Aggressive Attackers,Scotch Game,5750
+1,Aggressive Attackers,Sicilian Defense: Bowdler Attack,5596
+1,Aggressive Attackers,King's Pawn Game: Wayward Queen Attack,5111
+1,Aggressive Attackers,Italian Game: Anti-Fried Liver Defense,4342
+1,Aggressive Attackers,Horwitz Defense,4082
+2,Counterpunching Defenders,Scandinavian Defense: Mieses-Kotroc Variation,10750
+2,Counterpunching Defenders,Caro-Kann Defense,9711
+2,Counterpunching Defenders,Sicilian Defense,8948
+2,Counterpunching Defenders,Owen Defense,8059
+2,Counterpunching Defenders,Sicilian Defense: Bowdler Attack,7840
+2,Counterpunching Defenders,Scandinavian Defense,7569
+2,Counterpunching Defenders,Modern Defense,5790
+2,Counterpunching Defenders,Sicilian Defense: Old Sicilian,5605
+2,Counterpunching Defenders,Sicilian Defense: McDonnell Attack,4482
+2,Counterpunching Defenders,Pirc Defense #4,4167
+3,Positional Defenders,Queen's Pawn Game #2,8339
+3,Positional Defenders,Horwitz Defense,7258
+3,Positional Defenders,Queen's Pawn Game,6193
+3,Positional Defenders,Queen's Pawn Game: Mason Attack,5122
+3,Positional Defenders,Queen's Pawn Game: Zukertort Variation,4261
+3,Positional Defenders,Queen's Pawn Game: Chigorin Variation,4210
+3,Positional Defenders,Queen's Pawn Game: Levitsky Attack,2668
+3,Positional Defenders,Indian Game,2350
+3,Positional Defenders,Scandinavian Defense: Mieses-Kotroc Variation,2286
+3,Positional Defenders,Queen's Gambit Declined,2049
+4,Indian Defense Specialists,Caro-Kann Defense,271
+4,Indian Defense Specialists,Queen's Gambit Declined,160
+4,Indian Defense Specialists,Nimzo-Indian Defense #2,111
+4,Indian Defense Specialists,Amar Opening,109
+4,Indian Defense Specialists,Sicilian Defense,95
+4,Indian Defense Specialists,Indian Game: East Indian Defense,85
+4,Indian Defense Specialists,Sicilian Defense: Old Sicilian,84
+4,Indian Defense Specialists,King's Indian Defense: Orthodox Variation,81
+4,Indian Defense Specialists,French Defense: Knight Variation,64
+4,Indian Defense Specialists,Scandinavian Defense: Mieses-Kotroc Variation,60

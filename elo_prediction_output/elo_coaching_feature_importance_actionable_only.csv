@@ -1,0 +1,26 @@
+raw_feature,feature,coefficient,importance,abs_coefficient,effect_direction,recommendation
+num__pawn_moves_rate,pawn_moves_rate,109.41561561796749,22852.02008617018,109.41561561796749,higher,Higher values of this feature are associated with stronger players in this model.
+num__king_moves_rate,king_moves_rate,96.32571928342315,19343.82838316068,96.32571928342315,higher,Frequent king moves usually mean king safety problems. Castle earlier and avoid creating unnecessary king walks.
+num__heavy_piece_move_rate,heavy_piece_move_rate,76.66016249446177,12051.503793820208,76.66016249446177,higher,"Frequent queen and rook moves can be good later, but too much heavy-piece activity early may signal wasted tempi."
+num__minor_piece_move_rate,minor_piece_move_rate,69.52411093974906,9410.032436762265,69.52411093974906,higher,Using knights and bishops actively is generally healthier than overusing the queen early.
+num__knight_moves_rate,knight_moves_rate,50.77112819098101,5101.484149503618,50.77112819098101,higher,"Extra knight moves can mean rerouting, but too many early knight moves may also lose time. Aim for purposeful development rather than repetition."
+num__queen_moves_rate,queen_moves_rate,46.69114098148345,4364.784039220205,46.69114098148345,higher,A high share of queen moves often means lost tempi or repeated queen chases. Try to solve positions with minor pieces first.
+num__rook_moves_rate,rook_moves_rate,46.56856321320719,4293.9285933902065,46.56856321320719,higher,More rook activity can reflect better development and open-file usage. Bring rooks into play after king safety and minor-piece development.
+num__bishop_moves_rate,bishop_moves_rate,42.878572998879626,3619.7603778177117,42.878572998879626,higher,Active bishops often support stronger positions. Look for simple developing squares before starting direct attacks.
+num__checks_per_move,checks_per_move,-24.618075485923057,1293.7069791984918,24.618075485923057,lower,"A lower check rate is fine if your moves improve development, king safety, and material balance."
+num__MoveCount,MoveCount,24.619242514323236,1162.3455127905297,24.619242514323236,higher,Higher values of this feature are associated with stronger players in this model.
+num__castled,castled,17.82894047339654,842.4893676304448,17.82894047339654,higher,Castling is associated with stronger play. Prioritize king safety and connect your rooks earlier.
+num__early_queen_move,early_queen_move,-20.628085558689797,732.6199763110301,20.628085558689797,lower,Avoid early queen attacks unless they clearly win material or force a tactical sequence.
+num__opening_checks_per_ply12,opening_checks_per_ply12,-11.674055379639174,377.32476543951924,11.674055379639174,lower,Avoiding random early checks is usually healthy if you are developing smoothly.
+num__opening_captures_per_ply12,opening_captures_per_ply12,11.107332605267572,297.76078439162376,11.107332605267572,higher,"Early captures can be good when they win the center or a pawn, but avoid grabbing material if it delays development badly."
+num__promotions_per_move,promotions_per_move,-7.588073493742235,160.92831740113033,7.588073493742235,lower,Lower values of this feature are associated with stronger players in this model.
+num__captures_per_move,captures_per_move,-10.572570082604894,132.87562498627523,10.572570082604894,lower,Do not force captures. Improve your worst piece first and capture only when it helps.
+cat__GameLengthBucket_long,game_length=long,17.61418797840102,123.49246693266323,17.61418797840102,higher,Higher values of this feature are associated with stronger players in this model.
+cat__castle_side_kingside,castle_side=kingside,5.065968418575879,61.57829514422192,5.065968418575879,higher,"Kingside castling shows up as a stable, practical habit. It is usually the safest default for improving players."
+num__en_passant_per_move,en_passant_per_move,6.024668586041714,53.297577583753444,6.024668586041714,higher,Higher values of this feature are associated with stronger players in this model.
+cat__GameLengthBucket_short,game_length=short,-12.739362220850962,50.871436940865536,12.739362220850962,lower,Lower values of this feature are associated with stronger players in this model.
+cat__castle_side_none,castle_side=none,-7.273055869734095,43.83406963730086,7.273055869734095,lower,Reducing no-castle games is usually a clean improvement target for beginners.
+cat__GameLengthBucket_medium,game_length=medium,-4.874825263638557,0.5926899221958593,4.874825263638557,lower,Lower values of this feature are associated with stronger players in this model.
+cat__color_white,color=white,-10.158254867241354,0.0,10.158254867241354,lower,Lower values of this feature are associated with stronger players in this model.
+cat__color_black,color=black,10.158254866805983,0.0,10.158254866805983,higher,Higher values of this feature are associated with stronger players in this model.
+cat__castle_side_queenside,castle_side=queenside,2.2070874814747565,-13.136086254402471,2.2070874814747565,higher,Higher values of this feature are associated with stronger players in this model.
